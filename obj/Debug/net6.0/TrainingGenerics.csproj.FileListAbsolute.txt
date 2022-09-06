@@ -1,0 +1,15 @@
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\bin\Debug\net6.0\TrainingGenerics.exe
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\bin\Debug\net6.0\TrainingGenerics.deps.json
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\bin\Debug\net6.0\TrainingGenerics.runtimeconfig.json
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\bin\Debug\net6.0\TrainingGenerics.dll
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\bin\Debug\net6.0\TrainingGenerics.pdb
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.csproj.AssemblyReference.cache
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.AssemblyInfoInputs.cache
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.AssemblyInfo.cs
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.csproj.CoreCompileInputs.cache
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.dll
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\refint\TrainingGenerics.dll
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.pdb
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\TrainingGenerics.genruntimeconfig.cache
+C:\Users\facundo.vega\source\repos\TrainingGenerics\TrainingGenerics\obj\Debug\net6.0\ref\TrainingGenerics.dll
